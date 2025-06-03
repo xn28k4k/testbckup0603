@@ -1,0 +1,13 @@
+name = "Misc Tweaks"
+filename = "misctweaks-1.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36a09865f42a86bbb6c19b1ae881f10037c03977"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6404152
+project-id = 1227334
