@@ -1,0 +1,13 @@
+name = "Better MC [NEOFORGE] BMC5"
+author = "LunaPixelStudios"
+version = "v30"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7f6ffd88299ed747bb3a659553f76d6382512ac3be4a975a1bf38cd59d9c31b5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"
